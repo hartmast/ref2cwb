@@ -1,0 +1,5 @@
+cwb-encode -c utf8 -d /Users/stefanhartmann/Documents/cqp-data/ref -f /Users/stefanhartmann/sciebo/Corpora/ReF-v1.0.2/ref.vrt -R /Users/stefanhartmann/Documents/cwb-registry/ref -P token_id -P tok_anno -P lemma -P pos -P pos_lemma -P morph -P lemma_id -P anno_type -P punc -S corpus -S text:0+id+corpus+language-area+language-region+language-type+genre+Druck+time+reference+corpus-sigle+text_name+text-author+text-type+signment_quality+hoffmann_wetter_nr+library+library-shelfmark+date+place+text-place+printer+size+language+literature+notes-transcription+extent+extent-size+medium+abbr-ddd+assignment-quality+edition+text_notes-transcription
+
+
+cwb-makeall -r /Users/stefanhartmann/Documents/cwb-registry ref
+
