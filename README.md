@@ -1,6 +1,6 @@
 # REF2CWB
 
-This repository contains an R script for converting the [Reference Corpus Early New High German](https://www.linguistics.rub.de/ref/) (Wegera et al. 2021) to [CWB](https://cwb.sourceforge.io/). The file cwb-encode.txt also contains the commands for encoding the resulting .vrt file for use in the Corpus Workbench. The REF corpus files are re-used and distributed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+This repository contains an R script for converting the [Reference Corpus Early New High German](https://www.linguistics.rub.de/ref/) (Wegera et al. 2021) to [CWB](https://cwb.sourceforge.io/). The file cwb-encode.txt also contains the commands for encoding the resulting .vrt file for use in the Corpus Workbench. The REF corpus files are re-used and distributed under the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) license.
 
 
 ## References
